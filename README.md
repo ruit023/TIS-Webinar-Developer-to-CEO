@@ -9,7 +9,6 @@
 
 A comprehensive analysis and e-Portfolio reflection on the industry webinar **"From Developer to CEO: The Perfect Blend of Technology and Business"**, hosted by the Faculty of Computing, Universiti Teknologi Malaysia (UTM).
 
-A comprehensive analysis and e-Portfolio reflection on the industry webinar **"From Developer to CEO: The Perfect Blend of Technology and Business"**, hosted by the Faculty of Computing, Universiti Teknologi Malaysia (UTM).
 
 ---
 
