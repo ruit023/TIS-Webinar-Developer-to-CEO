@@ -1,14 +1,15 @@
 # ⚡ Industry Talk Case Study: From Developer to CEO
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Course-SECP1513_TIS-00FF66?style=flat-square&logo=github&logoColor=black&labelColor=16221B" alt="Course" />
-  <img src="https://img.shields.io/badge/UTM-Faculty_of_Computing-00FF66?style=flat-square&logo=university&logoColor=black&labelColor=16221B" alt="UTM" />
-  <img src="https://img.shields.io/badge/Date-26_October_2026-00FF66?style=flat-square&labelColor=16221B" alt="Date" />
-  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=flat-square&labelColor=16221B" alt="Status" />
+  <img src="https://img.shields.io/badge/Course-SECP1513_TIS-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Course" />
+  <img src="https://img.shields.io/badge/UTM-Faculty_of_Computing-00FF66?style=for-the-badge&logo=university&logoColor=black" alt="UTM" />
+  <img src="https://img.shields.io/badge/Date-26_October_2026-00FF66?style=for-the-badge" alt="Date" />
+  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=for-the-badge" alt="Status" />
 </p>
 
 A comprehensive analysis and e-Portfolio reflection on the industry webinar **"From Developer to CEO: The Perfect Blend of Technology and Business"**, hosted by the Faculty of Computing, Universiti Teknologi Malaysia (UTM).
 
+---
 
 ---
 
