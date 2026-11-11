@@ -1,15 +1,13 @@
 # ⚡ Industry Talk Case Study: From Developer to CEO
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Course-SECP1513_TIS-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Course" />
-  <img src="https://img.shields.io/badge/UTM-Faculty_of_Computing-00FF66?style=for-the-badge&logo=university&logoColor=black" alt="UTM" />
-  <img src="https://img.shields.io/badge/Date-26_October_2026-00FF66?style=for-the-badge" alt="Date" />
-  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Course-SECP1513_TIS-00FF66?style=flat-square&logo=github&logoColor=black&labelColor=16221B" alt="Course" />
+  <img src="https://img.shields.io/badge/UTM-Faculty_of_Computing-00FF66?style=flat-square&logo=university&logoColor=black&labelColor=16221B" alt="UTM" />
+  <img src="https://img.shields.io/badge/Date-26_October_2026-00FF66?style=flat-square&labelColor=16221B" alt="Date" />
+  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=flat-square&labelColor=16221B" alt="Status" />
 </p>
 
 A comprehensive analysis and e-Portfolio reflection on the industry webinar **"From Developer to CEO: The Perfect Blend of Technology and Business"**, hosted by the Faculty of Computing, Universiti Teknologi Malaysia (UTM).
-
----
 
 ---
 
@@ -18,7 +16,19 @@ A comprehensive analysis and e-Portfolio reflection on the industry webinar **"F
 - **Topic**: From Developer to CEO: The Perfect Blend of Technology and Business
 - **Speaker**: Assoc. Prof. Dr. Hj. Mohamad Hafis Izran bin Ishak (CEO of AR Mechatronics PLT / Associate Professor at UTM)
 - **Date & Time**: Monday, 26 October 2026 | 2:00 PM – 4:00 PM
-- **Participant**: TEY HAO RUI (Matric No: A26CS038) | Year 1 Computer Network & Security Student
+- **Participant**: TEY HAO RUI (Matric No: A26CS0398) | Year 1 Computer Network & Security Student
+
+---
+
+### 🎨 Team Reflection Poster & Evidence
+As part of our SECP1513 coursework, our team (Group of 5) collaborated on a reflective poster summarizing key takeaways, business models, user vs. buyer dynamics, and project execution frameworks:
+
+<p align="left">
+  <img src="./assets/poster.jpg" alt="TIS Webinar Reflection Poster" width="100%" />
+</p>
+
+- 📄 **Poster High-Res File**: [`assets/poster.jpg`](./assets/poster.jpg)
+- 📊 **Speaker Presentation Slide**: [`Dr_Hafis_From_Developer_to_CEO_TIS.pdf`](./Dr_Hafis_From_Developer_to_CEO_TIS.pdf)
 
 ---
 
@@ -46,13 +56,6 @@ Using the **MyREDS** (Resident Easy Decision System) case study presented by Dr.
 
 ---
 
-### 🎨 Project Evidence & Poster Presentation
-As part of our coursework, our team (Group of 5) collaborated on a reflective poster summarizing the key lessons and practical applications:
-- 📄 **Poster File**: [`poster.jpg`](./poster.jpg)
-- 📊 **Speaker Slides**: [`Dr_Hafis_From_Developer_to_CEO_TIS.pdf`](./Dr_Hafis_From_Developer_to_CEO_TIS.pdf)
-
----
-
 ### 💡 Personal Reflection
 > *"Writing clean, bug-free code is only a baseline requirement in real-world software engineering—technology must align with user problems and business sustainability."*
 
@@ -60,8 +63,9 @@ As a Year 1 Computer Network & Security student at UTM, this talk reshaped how I
 
 ---
 
-👥 **Team Members (Group Collaboration)**:
-- TEY HAO RUI (Matric: A26CS038)
+👥 **Team Members (Group Collaboration - Group 5)**:
+- TEY HAO RUI (Matric: A26CS0398)
 - LIM GUAN CHENG (Matric: A26CS0162)
 - TEE JIA XUAN (Matric: A26CS0392)
-- MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric: A26CS0101)
+- MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric: A26CS0191)
+- MUHAMMAD AQIL ALHAY BIN ZULKARNAIN (Matric: A26CS0206)
