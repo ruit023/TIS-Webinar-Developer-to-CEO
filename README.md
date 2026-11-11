@@ -26,8 +26,7 @@ As part of our SECP1513 coursework, our team (Group of 5) collaborated on a refl
 <p align="left">
   <img src="./assets/poster.jpg" alt="TIS Webinar Reflection Poster" width="100%" />
 </p>
- 
-- 📄 **Poster High-Res File**: ![TIS Webinar Reflection Poster](./assets/poster.jpg)
+
 - 📊 **Speaker Presentation Slide**: [`Dr_Hafis_From_Developer_to_CEO_TIS.pdf`](./Dr_Hafis_From_Developer_to_CEO_TIS.pdf)
 
 ---
